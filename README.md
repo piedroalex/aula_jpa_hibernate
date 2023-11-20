@@ -3,3 +3,6 @@
  
  ## Links dos repositórios
 - [Mapeamento de entidades](https://github.com/piedroalex/aula_jpa_hibernate_entity_annotations)
+- [Relacionamento de um para um](https://github.com/piedroalex/aula_jpa_hibernate_onetoone)
+- [Relacionamento de um para muitos](https://github.com/piedroalex/aula_jpa_hibernate_onetomany)
+- [Relacionamento de muitos para um](https://github.com/piedroalex/aula_jpa_hibernate_manytoone)

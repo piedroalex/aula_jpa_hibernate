@@ -8,3 +8,4 @@
 - [Relacionamento de muitos para um](https://github.com/piedroalex/aula_jpa_hibernate_manytoone)
 - [Relacionamento de muitos para muitos](https://github.com/piedroalex/aula_jpa_hibernate_manytomany)
 - [Relacionamento bidirecional](https://github.com/piedroalex/aula_jpa_hibernate_mappedBy)
+- [JoinColumn](https://github.com/piedroalex/aula_jpa_hibernate_joincolumn)

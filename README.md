@@ -10,3 +10,5 @@
 - [Relacionamento bidirecional](https://github.com/piedroalex/aula_jpa_hibernate_mappedBy)
 - [JoinColumn](https://github.com/piedroalex/aula_jpa_hibernate_joincolumn)
 - [Cascade](https://github.com/piedroalex/aula_jpa_hibernate_cascade)
+- [Embedded](https://github.com/piedroalex/aula_jpa_hibernate_embedded)
+- [Enum](https://github.com/piedroalex/aula_jpa_hibernate_enum)
